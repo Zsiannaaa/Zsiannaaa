@@ -1,3 +1,5 @@
+<img width="1672" height="941" alt="mot" src="https://github.com/user-attachments/assets/2f42279b-ea3c-4924-ae8c-21f28c5e7331" />
+
 **Hello, Universe!**
 🧠 What I build:
 I build web applications and explore different areas of programming to grow as a developer.
