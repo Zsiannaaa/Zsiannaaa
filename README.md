@@ -1,4 +1,4 @@
-<img width="1672" height="941" alt="mot" src="https://github.com/user-attachments/assets/2f42279b-ea3c-4924-ae8c-21f28c5e7331" />
+<img width="1911" height="451" alt="Screenshot 2026-05-03 225656" src="https://github.com/user-attachments/assets/8dc42540-7a4f-4bb4-baaf-792e8a15246d" />
 
 **Hello, Universe!**
 🧠 What I build:
